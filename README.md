@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a align="center" href="https://store.steampowered.com/app/221910/The_Stanley_Parable/" target="_blank">
-      <img width="auto" src="img/logo.png"></a>
+      <img width="auto" src="imgs/logo.png"></a>
   </p>
 </div>
 
