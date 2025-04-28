@@ -1,14 +1,14 @@
 <div align="center">
   <p>
-    <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
-      <img width="auto" src="https://raw.githubusercontent.com/Gistix/portal2vr/main/imgs/logo.png"></a>
+    <a align="center" href="https://store.steampowered.com/app/221910/The_Stanley_Parable/" target="_blank">
+      <img width="auto" src="img/logo.png"></a>
   </p>
 </div>
 
 ### All information is currently out of date and is the same as the original Portal2VR fork, this will eventually be updated.
-# ![Portal 2 icon](imgs/icon.jpg "Portal 2 icon") Portal 2 VR
+# ![The Stanley Parable icon](imgs/icon.jpg "The Stanley Parable icon") The Stanley Parable VR
 ### ~~Use this mod at your own risk of getting VAC banned. Use the -insecure launch option to help protect yourself.~~
-### Apparently Portal 2 doesn't have VAC, but just to be safe you should still run the game with the `insecure` flag.
+### The Stanley Parable doesn't have VAC, but just to be safe you should still run the game with the `insecure` flag.
 This game contains flashing lights and fast motion sequences.
 
 ## Portal 2 VR Mod First 20 Minutes (Youtube Video)
