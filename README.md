@@ -5,6 +5,7 @@
   </p>
 </div>
 
+### All information is currently out of date and is the same as the original Portal2VR fork, this will eventually be updated.
 # ![Portal 2 icon](imgs/icon.jpg "Portal 2 icon") Portal 2 VR
 ### ~~Use this mod at your own risk of getting VAC banned. Use the -insecure launch option to help protect yourself.~~
 ### Apparently Portal 2 doesn't have VAC, but just to be safe you should still run the game with the `insecure` flag.
@@ -60,14 +61,13 @@ If the game is crashing, try:
 Note: After building, it will attempt to copy the new d3d9.dll to your Portal 2/bin directory.
 
 ## Based on
+* [portal2vr](https://github.com/Gistix/portal2vr)
 * [l4d2vr](https://github.com/sd805/l4d2vr)
+
   
 ## Utilizes code from
 * [VirtualFortress2](https://github.com/PinkMilkProductions/VirtualFortress2)
 * [gmcl_openvr](https://github.com/Planimeter/gmcl_openvr/)
 * [dxvk](https://github.com/TheIronWolfModding/dxvk/tree/vr-dx9-rel)
 * [source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013/)
-
-## Support me
-<a href="https://www.paypal.com/donate/?business=YL7TGWKPCC9H8&no_recurring=0&currency_code=USD"><img src="https://pics.paypal.com/00/s/MDAwNDljNmUtZWZiZS00ZTI1LWFiMTMtZTdhZmQ5NmU5ZDUx/file.PNG" alt="Donate Button" style="width:auto;height:100px;"></a>
 
